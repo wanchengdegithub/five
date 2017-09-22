@@ -1,0 +1,9 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family: "微软雅黑";
+}
+body{
+    background-color: black;
+    background-image: url(../image/6.jpg);
+}
